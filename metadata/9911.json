@@ -1,0 +1,11 @@
+{
+    "name": "Ethereum Number #9911",
+    "description": "A unique Ethereum Number NFT.",
+    "image": "https://github.com/ethereumnumbers/Ethereum-Numbers/tree/main/images9911.png",
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": 9911
+        }
+    ]
+}
